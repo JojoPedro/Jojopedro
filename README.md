@@ -1,7 +1,7 @@
 ### Hi there!
 
 
-- 👽 I’m currently studying studying analysis systems development at college (UNISA)
+- 👽 I’m currently studying analysis systems development at college (UNISA)
 - 🌱 I’m currently learning Python
 - 👯 I intent to work in the area of IT
 - 💬 Ask me about IT and geek stuff 
