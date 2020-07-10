@@ -12,4 +12,4 @@
       Personal IG: quod_sumeris
 - <h3>🟦 Fun fact: I like animals a lot<h3>
 
-![thumbs](https://media1.tenor.com/images/8f5b60327401bd315032f416467a3ddd/tenor.gif?itemid=15981484)
+![thumbs](https://i0.wp.com/66.media.tumblr.com/784d6bd405ae7676612e599367dcda27/tumblr_ph0wdliD4J1r3i2gwo1_540.gif?w=605&ssl=1)
