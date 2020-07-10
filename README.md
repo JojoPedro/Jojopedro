@@ -1,8 +1,6 @@
 ### Hi there!
 
 
-Here are some ideas to get you started:
-
 - 👽 I’m currently studying studying analysis systems development at college (UNISA)
 - 🌱 I’m currently learning Python
 - 👯 I intent to work in the area of IT
