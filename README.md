@@ -8,11 +8,17 @@ Apart from learning python I'm coursing my last year of analysis systems develop
 Talk to me about
 
 -python
+<br/>
 -java
+<br/>
 -javascript
+<br/>
 -mysql
+<br/>
 -Django
+<br/>
 -HTML
+<br/>
 -CSS
 
 ## 📫 Contact Me
