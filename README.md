@@ -6,7 +6,8 @@ Apart from learning python I'm coursing my last year of analysis systems develop
 
 ## ⚡ Technologies
 Talk to me about
-- python
+
+-python
 -java
 -javascript
 -mysql
