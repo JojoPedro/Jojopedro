@@ -27,6 +27,9 @@ Talk to me about
 
 ### 💥Fun facts
 -I like animals a lot
+</br>
 -I like geek things
+</br>
 -I like videogames a lot
+</br>
 ![thumbs](https://i0.wp.com/66.media.tumblr.com/784d6bd405ae7676612e599367dcda27/tumblr_ph0wdliD4J1r3i2gwo1_540.gif?w=605&ssl=1)
