@@ -32,4 +32,4 @@ Talk to me about
 </br>
 -I like videogames a lot
 </br>
-![thumbs](https://i.pinimg.com/originals/49/61/bb/4961bb914215ad525522e7ad4ffa2a07.gif)
+![thumbs](https://64.media.tumblr.com/e2f14709a9cc7d39d3e73716461b2f10/tumblr_owib93NFRP1r1xpwxo1_1280.gif)
