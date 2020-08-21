@@ -22,8 +22,8 @@ Talk to me about
 -CSS
 
 ## 📫 Contact Me
-- LinkedIn - [João Pedro Silva](linkedin.com/in/joão-pedro-silva-2b60a3164)
-- Email - [João Pedro](joaopedro.silva.paulino@gmail.com)
+- LinkedIn - [João](linkedin.com/in/joão-pedro-silva-2b60a3164)
+- Email - [João](joaopedro.silva.paulino@gmail.com)
 
 ### 💥Fun facts
 -I like animals a lot
