@@ -22,7 +22,7 @@ Talk to me about
 -CSS
 
 ## 📫 Contact Me
-- LinkedIn - [João](linkedin.com/in/joão-pedro-silva-2b60a3164)
+- LinkedIn - [linkedin.com/in/joão-pedro-silva-2b60a3164]
 - Email - [João](joaopedro.silva.paulino@gmail.com)
 
 ### 💥Fun facts
