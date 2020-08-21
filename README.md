@@ -1,4 +1,4 @@
-# João Pedro da Silva 😃
+# João Pedro 😃
 Student at Unisa | Training Python |Looking for a job in IT area
 
 ## 🧐 About
