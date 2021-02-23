@@ -7,15 +7,11 @@ Apart from learning python I'm coursing my last year of analysis systems develop
 ## ⚡ Technologies
 Talk to me about
 
+-cybersec
+<br>
 -python
 <br/>
--java
-<br/>
--javascript
-<br/>
--mysql
-<br/>
--Django
+-php
 <br/>
 -HTML
 <br/>
