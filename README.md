@@ -2,7 +2,7 @@
 Student at Unisa | Training Python |Looking for a job in IT area
 
 ## 🧐 About
-Apart from learning python I'm coursing my last year of analysis systems development at UNISA. I looking for an internship or something like in the area of IT and I'm trying to gather all experience that I can..
+Graduated in systems analyst I'm looking for an opportunity in IT area while trying to gather all experience I can studying. I'm really interested in the cybersec area and I'm currently studying php 
 
 ## ⚡ Technologies
 Talk to me about
