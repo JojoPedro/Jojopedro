@@ -21,7 +21,7 @@ Talk to me about
 -CSS
 
 ## 📫 Contact Me
-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/)
+- LinkedIn - https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-2b60a3164/
 - Email - joaopedro.silva.paulino@gmail.com
 
 ### 💥Fun facts
