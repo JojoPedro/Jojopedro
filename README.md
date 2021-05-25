@@ -2,15 +2,16 @@
 Former student at UNISA | Training programming |Actually unemployed
 
 ## 🧐 About
-I'm recent graduated in systems analysis looking for opportunities and collaboration in projects related to development or cybersec while trying to gather all experience I can studying. I'm really interested in the cybersec area and 
+I'm recent graduated in systems analysis and I'm looking for opportunities and collaboration in projects related to development or cybersec while trying to gather all experience I can studying.
 
 - 🔭 I'm currently training to improve my programming skills
-- 🌱 I'm currently studying php 
+- 🌱 I'm currently studying JS, HTML and CSS
 - 🤝 I'm looking to collaborate on development and cybersec projects
 
 ## ⚡ Interests
 Talk to me about
--cybersec
+<br>
+-Javascript
 <br>
 -python
 <br/>
@@ -19,6 +20,8 @@ Talk to me about
 -HTML
 <br/>
 -CSS
+<br>
+-cybersec
 
 ## 📫 Contact Me
 - LinkedIn - https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-2b60a3164/
